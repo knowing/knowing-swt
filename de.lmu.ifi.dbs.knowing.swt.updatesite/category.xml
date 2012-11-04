@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.lmu.ifi.dbs.knowing.core.swt.feature_0.2.0.qualifier.jar" id="de.lmu.ifi.dbs.knowing.core.swt.feature" version="0.2.0.qualifier">
+      <category name="de.lmu.ifi.dbs.knowing"/>
+   </feature>
+   <feature url="features/de.lmu.ifi.dbs.knowing.swt.feature_0.2.0.qualifier.jar" id="de.lmu.ifi.dbs.knowing.swt.feature" version="0.2.0.qualifier">
+      <category name="de.lmu.ifi.dbs.knowing"/>
+   </feature>
+   <category-def name="de.lmu.ifi.dbs.knowing.swt" label="Knowing SWT"/>
+</site>
